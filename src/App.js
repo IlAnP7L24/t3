@@ -1,14 +1,14 @@
 
 import './App.css';
-import t3 from './Components/t3/t3';
+import T3 from './Components/t3/t3.jsx';
 
 function App() {
   return (
     <div>
-      <t3/>
+      <T3/>
     </div>
   );
 }
 
 export default App;
-export {t3};
+export {T3};
