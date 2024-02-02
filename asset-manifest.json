@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/t3/static/css/main.7169b29b.chunk.css",
+    "main.js": "/t3/static/js/main.0e5686f5.chunk.js",
+    "main.js.map": "/t3/static/js/main.0e5686f5.chunk.js.map",
+    "runtime~main.js": "/t3/static/js/runtime~main.2b680e85.js",
+    "runtime~main.js.map": "/t3/static/js/runtime~main.2b680e85.js.map",
+    "static/js/2.ac397db4.chunk.js": "/t3/static/js/2.ac397db4.chunk.js",
+    "static/js/2.ac397db4.chunk.js.map": "/t3/static/js/2.ac397db4.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/t3/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/t3/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/t3/index.html",
+    "precache-manifest.d2a0f0571b6bcdf1494c73b01656f9dd.js": "/t3/precache-manifest.d2a0f0571b6bcdf1494c73b01656f9dd.js",
+    "service-worker.js": "/t3/service-worker.js",
+    "static/css/main.7169b29b.chunk.css.map": "/t3/static/css/main.7169b29b.chunk.css.map",
+    "static/media/circle.png": "/t3/static/media/circle.50576810.png",
+    "static/media/cross.png": "/t3/static/media/cross.6c8a4541.png"
+  }
+}
