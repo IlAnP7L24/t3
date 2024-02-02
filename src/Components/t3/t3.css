@@ -43,5 +43,8 @@
 
 }
 .boxes img{
-
+size: 30px 30px;
+}
+.title img {
+    width:50px;
 }
