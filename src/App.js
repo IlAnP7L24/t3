@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import T3 from './Components/t3/t3.jsx';
 
